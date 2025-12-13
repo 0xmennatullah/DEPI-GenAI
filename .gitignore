@@ -1,0 +1,27 @@
+﻿
+# Data files
+*.csv
+*.xlsx
+*.data
+data/
+DL/data/
+ML/Tasks/data/
+
+# Dataset formats
+*.ubyte
+*.gz
+*.idx*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+*.pth
+*.h5
+*.pkl
+*.joblib
