@@ -1,6 +1,6 @@
-# DEPI GenAI
+# DEPI GenAI - R4
 
-My progress repository for the **Digital Egypt Pioneers Initiative (DEPI) Generative & Agentic AI** program – a 120-hour, 40-session professional course.
+My progress repository for the **Digital Egypt Pioneers Initiative (DEPI) Generative & Agentic AI** professional course.
 
 ## Course Overview
 Hands-on track covering ML fundamentals to advanced Generative AI, Agents, RAG, and deployment. Includes ethics, prompting, multi-agent systems, and a capstone project.
